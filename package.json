@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-template",
+  "version": "1.0.0",
+  "description": "Unsplash live like and viewsd",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ianromieona/nodejs-template.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Ian Romie Ona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianromieona/nodejs-template/issues"
+  },
+  "homepage": "https://github.com/ianromieona/nodejs-template#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "nodemon": "^1.17.5"
+  },
+  "devDependencies": {
+    "webpack": "^4.12.0"
+  }
+}
